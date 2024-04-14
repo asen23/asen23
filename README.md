@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @asen23
 - 👀 I’m interested in learning many things about programming and looking to expand my knowledge.
-- 🌱 I’m currently learning react native as part of my job.
-- 📫 You can contact me through my email
+- 📫 You can contact me mainly through my discord.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 <!---
